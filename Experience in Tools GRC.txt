@@ -1,0 +1,173 @@
+Key Responsibilities :
+
+
+
+- Lead and manage cyber security consulting engagements across the EMEA region.
+
+
+
+- Execute end-to-end ISO 27001 implementation (mandatory).
+
+
+
+- Conduct gap assessments, risk assessments, impact assessments, and maturity evaluations.
+
+
+
+- Implement and maintain cyber security frameworks and governance models.
+
+
+
+- Support compliance programs for standards including ISO 27001, ISO 20000, SOC 2, GDPR, PCI DSS, and privacy frameworks.
+
+
+
+- Coordinate Cyber Security Testing services (VAPT, AppSec, secure code review).
+
+
+
+- Interpret and explain technical vulnerabilities to business stakeholders.
+
+
+
+- Collaborate with cross-functional teams, presales, and client stakeholders.
+
+
+
+- Drive business development activities including proposal support and client discussions.
+
+
+
+- Ensure adherence to project margins and service delivery quality.
+
+
+
+Technical Skills (Added & Expanded) :
+
+
+
+- Cybersecurity Frameworks & Standards
+
+
+
+- ISO 27001/27002, ISO 20000
+
+
+
+- SOC 2, HIPAA, GDPR, PCI DSS
+
+
+
+- NIST CSF, NIST 800-53
+
+
+
+- COBIT 5 / COBIT 2019
+
+
+
+- CIS Controls
+
+
+
+- Data Privacy frameworks (DPA, DPIA, CCPA, DPDP Act optional)
+
+
+
+- GRC & Risk Management
+
+
+
+- Experience with GRC tools : ServiceNow GRC, Archer, MetricStream, OneTrust
+
+
+
+- Enterprise Risk Management (ERM)
+
+
+
+- Control design, risk scoring, mitigation planning
+
+
+
+- Policy creation, SOP development, control testing
+
+
+
+- BCP/DR frameworks
+
+
+
+- Risk Register management
+
+
+
+- Cybersecurity Testing Knowledge
+
+
+
+- VAPT concepts
+
+
+
+- Web & mobile AppSec
+
+
+
+- Secure code review
+
+
+
+- OWASP Top 10, SANS CWE Top 25
+
+
+
+- Ability to interpret reports from scanner tools
+
+
+
+- Cloud Security
+
+
+
+- Basic understanding of cloud security (AWS, Azure, GCP)
+
+
+
+- Cloud compliance mapping (ISO - Cloud Controls)
+
+
+
+- IAM fundamentals & Zero Trust concepts
+
+
+
+Infrastructure & Technical Knowledge :
+
+
+
+- Active Directory
+
+
+
+- Firewalls (policy review, rule analysis)
+
+
+
+- DLP solutions
+
+
+
+- SCCM
+
+
+
+- Endpoint security tools (McAfee, Defender, CrowdStrike)
+
+
+
+- Secure coding practices
+
+
+
+- Network basics (TCP/IP, VPN, DNS, proxies)
